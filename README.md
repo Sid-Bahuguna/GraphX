@@ -55,20 +55,6 @@ python graphql_scanner.py -u https://api.example.com/graphql \
 ### Legal Disclaimer
 This tool is for **authorized security testing only**. Unauthorized use may be illegal. Users are solely responsible for compliance with all applicable laws and regulations.
 
-
-## 📈 Roadmap
-
-- [ ] JSON/HTML/PDF report export
-- [ ] WebSocket subscription testing
-- [ ] GraphQL over WebSocket support
-- [ ] Custom vulnerability plugins
-- [ ] Integration with Burp Suite/ZAP
-- [ ] Machine learning anomaly detection
-- [ ] Multi-threaded scanning
-- [ ] REST to GraphQL converter testing
-- [ ] Federation-specific vulnerabilities
-- [ ] Apollo-specific security checks
-
 ## 🤝 Contributing
 
 Contributions welcome! Please:
